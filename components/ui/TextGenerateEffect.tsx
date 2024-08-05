@@ -49,6 +49,7 @@ export const TextGenerateEffect = ({
             </motion.div>
         );
     };
+    
 
     return (
         <div className={cn("font-bold", className)}>
